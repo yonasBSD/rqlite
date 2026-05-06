@@ -1,6 +1,7 @@
 ## v10.0.3 (unreleased)
 ### Implementation changes and bug fixes
 - [PR #2649](https://github.com/rqlite/rqlite/pull/2649): Simplify Store CRC check fallback logic.
+- [PR @2651](https://github.com/rqlite/rqlite/pull/2651): Set default maximum number of read-only database connections to 256.
 
 ## v10.0.2 (May 5th 2026)
 ### Implementation changes and bug fixes
